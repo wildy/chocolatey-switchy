@@ -1,0 +1,14 @@
+<package>
+  <metadata>
+    <id>switchy</id>
+    <version>1.4.3</version>
+    <title>Switchy</title>
+    <authors>erryox</authors>
+    <owners>wildy</owners>
+    <description>Switches keyboard layout with the Caps Lock key.</description>
+    <projectUrl>https://github.com/erryox/Switchy</projectUrl>
+    <licenseUrl>https://github.com/erryox/Switchy/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>github keyboard</tags>
+  </metadata>
+</package>
